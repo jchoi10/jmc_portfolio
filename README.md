@@ -13,6 +13,7 @@
 ## Update/Correct CSS
 - Live URL: [https://jchoi10.github.io/horiseon-module-update/](https://jchoi10.github.io/horiseon-module-update/)
 - Github Repo URL: [https://github.com/jchoi10/horiseon-module-update](https://github.com/jchoi10/horiseon-module-update)
+
 ## Jongwon (Michael) Choi Portfolio
 - Live URL: [https://jchoi10.github.io/jmc_portfolio/](https://jchoi10.github.io/jmc_portfolio/)
 - Github Repo URL: [https://github.com/jchoi10/jmc_portfolio](https://github.com/jchoi10/jmc_portfolio)
