@@ -160,7 +160,7 @@ section {
 .projects {
     flex: 1;
     margin: 20px;
-    background: #c4eaff;
+    /* background: #c4eaff; */
     color: var(--primary-color);
 }
 
